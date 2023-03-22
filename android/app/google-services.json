@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "15104468262",
+    "project_id": "cohort-2-firebase-demo",
+    "storage_bucket": "cohort-2-firebase-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15104468262:android:9944b4a70a4a1db8c84de7",
+        "android_client_info": {
+          "package_name": "com.example.cohort_two_firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15104468262-0o4gk4u78c3hevkmpj4phk5inqj4p9cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAccqyp2bDQCHpuCBVl8t1QgVDqfvwR9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15104468262-0o4gk4u78c3hevkmpj4phk5inqj4p9cn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15104468262-1j1n3t2m99ppliqi7q31h2rtcki5qvbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cohortTwoFirebaseDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15104468262:android:9e090f3de99166a5c84de7",
+        "android_client_info": {
+          "package_name": "com.example.demo_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15104468262-0o4gk4u78c3hevkmpj4phk5inqj4p9cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAccqyp2bDQCHpuCBVl8t1QgVDqfvwR9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15104468262-0o4gk4u78c3hevkmpj4phk5inqj4p9cn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15104468262-1j1n3t2m99ppliqi7q31h2rtcki5qvbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cohortTwoFirebaseDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
